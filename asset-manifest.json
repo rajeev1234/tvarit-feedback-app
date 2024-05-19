@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tvarit-feedback-app/static/css/main.c70e1b3f.css",
-    "main.js": "/tvarit-feedback-app/static/js/main.e34c2bbe.js",
+    "main.js": "/tvarit-feedback-app/static/js/main.5df1ed57.js",
     "static/js/453.ecaafee3.chunk.js": "/tvarit-feedback-app/static/js/453.ecaafee3.chunk.js",
     "index.html": "/tvarit-feedback-app/index.html",
     "main.c70e1b3f.css.map": "/tvarit-feedback-app/static/css/main.c70e1b3f.css.map",
-    "main.e34c2bbe.js.map": "/tvarit-feedback-app/static/js/main.e34c2bbe.js.map",
+    "main.5df1ed57.js.map": "/tvarit-feedback-app/static/js/main.5df1ed57.js.map",
     "453.ecaafee3.chunk.js.map": "/tvarit-feedback-app/static/js/453.ecaafee3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c70e1b3f.css",
-    "static/js/main.e34c2bbe.js"
+    "static/js/main.5df1ed57.js"
   ]
 }
